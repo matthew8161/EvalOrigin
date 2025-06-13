@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Trace-to-evaluation compiler: turn failures and execution traces into regression cases, rubrics, fixtures, and release gates."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# drop an unused branch
